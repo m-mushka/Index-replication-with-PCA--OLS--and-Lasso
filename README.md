@@ -106,4 +106,8 @@ All replication methods perform strongly out-of-sample, with pseudo R-squared va
 
 Interestingly, the OLS method yields the lowest tracking error across nearly all categories, while index-weight replication results in the highest. However, the median and average tracking errors for the PCA and Lasso replications are not far behind, indicating comparable performance.
 
+### Weights comparison
 
+![Diagram](graphs/w_df.png)
+
+As clearly can be seen, each replication method is unique, yeilding disting hedge basket weights.
